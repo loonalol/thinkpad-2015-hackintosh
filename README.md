@@ -2,6 +2,8 @@
   <img height="150" src="https://github.com/Fluffyzwz/thinkpad-2015-hackintosh/assets/85907829/842f78d5-d447-4012-b491-8cad1356c250"  />
 </div>
 
+###
+
 <p align="center">
    <strong>OpenCore Version: </strong>0.8.0
 </p>
@@ -10,9 +12,12 @@
    <strong>OpenCore Version: </strong>0.9.3
 </p>
 
+###
+
 <h1 align="center">hey there 👋</h1>
 <li> Note: if you get a black screen on the internal display at boot, press "ctrl + shift + insert" and then any key ⚫️<li>
 
+###
 
 <h3 align="left">👩‍💻 Lenovo ThinkPad X1 Carbon 3rd Gen OpenCore Configuration</h3>
 
