@@ -15,7 +15,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-<li> Note: if you get a black screen on the internal display at boot, press "ctrl + shift + insert" and then any key ⚫️<li>
+<h0> Note: if you get a black screen on the internal display at boot, press "ctrl + shift + insert" and then any key ⚫️<h0>
 
 ###
 
