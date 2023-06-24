@@ -10,13 +10,9 @@
    <strong>OpenCore Version: </strong>0.9.3
 </p>
 
-###
-
 <h1 align="center">hey there 👋</h1>
 <li> Note: if you get a black screen on the internal display at boot, press "ctrl + shift + insert" and then any key ⚫️<li>
 
-  
-###
 
 <h3 align="left">👩‍💻 Lenovo ThinkPad X1 Carbon 3rd Gen OpenCore Configuration</h3>
 
