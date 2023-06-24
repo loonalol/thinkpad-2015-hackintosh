@@ -5,7 +5,10 @@
 <p align="center">
    <strong>OpenCore Version: </strong>0.8.0
 </p>
-</br>
+
+<p align="center">
+   <strong>OpenCore Version: </strong>0.9.3
+</p>
 
 ###
 
