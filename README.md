@@ -149,13 +149,9 @@ This will take some time, however once you're finished you should get either Bas
 
 15. Now after install again boot into your usb drive and then select the drive that you installed macOS on.
 
-16. Download and install [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/).
+16. Now copy the EFI Folder to the EFI Partition and overwrite it with the one system created.
 
-17. Open [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/) and Mount the EFI partition of the drive you want to boot off of.
+17. Now try booting macOS without the USB drive.
 
-18. Now copy the EFI Folder to the EFI Partition and overwrite it with the one system created.
-
-19. Now try booting macOS without the USB drive.
-
-20. Congratulations, you've successfully hackintoshed your Lenovo ThinkPad X1 Carbon 3rd Gen.
+18. Congratulations, you've successfully hackintoshed your Lenovo ThinkPad X1 Carbon 3rd Gen.
 
