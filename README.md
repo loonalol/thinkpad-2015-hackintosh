@@ -17,8 +17,6 @@
 
 <h3 align="left">👩‍💻 Lenovo ThinkPad X1 Carbon 3rd Gen OpenCore Configuration</h3>
 
-###
-
 <h3 align="left">🛠 Welcome to my ted talk.</h3>
 
 <details>  
