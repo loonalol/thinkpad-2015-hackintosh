@@ -68,6 +68,22 @@
 
 </details>
 
+
+<details>  
+<summary><strong>Photos 📸</strong></summary>
+
+  ![Screen Shot 2023-06-24 at 7 20 50 PM](https://github.com/Fluffyzwz/thinkpad-2015-hackintosh/assets/85907829/a96fd6a7-3696-485b-a44e-e3f9b2a7c55c)
+
+  ![Screen Shot 2023-06-24 at 7 21 48 PM](https://github.com/Fluffyzwz/thinkpad-2015-hackintosh/assets/85907829/60351a72-59cb-4e87-893e-da079929e295)
+
+   ![image](https://github.com/Fluffyzwz/thinkpad-2015-hackintosh/assets/85907829/b7c184f7-c6fa-4347-9112-78063e29bd6d)
+
+
+</details>
+
+</details>
+
+
 ## Lenovo ThinkPad X1 Carbon 3rd Gen Hackintosh Guide
 
 <details>  
